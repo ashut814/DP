@@ -1,0 +1,1 @@
+{"name":"Local: subsets","url":"/Users/ashutoshtripathi/Desktop/Dp/2.Backtracking/subsets.cpp","tests":[{"id":1706543503765,"input":"abc","output":"abc\nab\nac\na\nbc\nb\nc\nNULL"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ashutoshtripathi/Desktop/Dp/2.Backtracking/subsets.cpp","group":"local","local":true}
